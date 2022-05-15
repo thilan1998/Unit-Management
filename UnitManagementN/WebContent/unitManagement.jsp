@@ -49,7 +49,7 @@
 				<div id="alertError" class="alert alert-danger"></div>
 				<br>
 				
-				<div id="divUnitManagementGrid">
+				<div id="divUnitManagementGrid" class="table-primary">
 					<%
 					Unit unitObj = new Unit();
 					out.print(unitObj.readUnit());

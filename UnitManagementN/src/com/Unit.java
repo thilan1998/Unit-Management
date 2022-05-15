@@ -76,7 +76,7 @@ public class Unit {
 			
 			
 			// Prepare html table to be displayed
-			output = "<table border=\"1\"><tr><th>Unit ID</th>"
+			output = "<table border=\"1\" class=\"table table-sm\"><tr><th>Unit ID</th>"
 					+ "<th>Account No</th><th>Date</th><th>Unit Amount</th>"
 					+ "<th>Price for PerUnit</th><th>Total Amount</th></tr>";
 			
